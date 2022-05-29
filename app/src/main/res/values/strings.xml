@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EcoShaming</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="rebButton">Зарегистрироваться</string>
+    <string name="passwdButton">Пароль</string>
+    <string name="e_mail">Логин</string>
+    <string name="Sign_in">Начать AR-путешествие</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="enter_lastname">Введите фамилию</string>
+    <string name="reenter_password">Подтвердите пароль</string>
+    <string name="regestration_prompt">ПОЖАЛУЙСТА ЗАРЕГИСТРИРУЙТЕСЬ!</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="registration">РЕГИСТРАЦИЯ</string>
+    <string name="title_activity_index">IndexActivity</string>
+</resources>

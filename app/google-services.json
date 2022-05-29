@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21623364859",
+    "project_id": "ecoshaming-ac912",
+    "storage_bucket": "ecoshaming-ac912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21623364859:android:7faaa181a267716706e45e",
+        "android_client_info": {
+          "package_name": "ru.ecoshming.ecoshaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21623364859-fov0m60m3l3q0tqd1es0f8n9f1sthhh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqSvNpUWvpDAs16szF19592M_rvD-j9r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21623364859-fov0m60m3l3q0tqd1es0f8n9f1sthhh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
